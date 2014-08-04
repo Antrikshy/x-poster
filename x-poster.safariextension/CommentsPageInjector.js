@@ -22,7 +22,7 @@ if (window.location.href.indexOf("/comments/") > -1) {
     
     xpostButton.appendChild(xpostButtonLink);
     xpostButton.setAttribute('id', 'xpostButton');
-    xpostButton.setAttribute('title', 'submit this link to a different subreddit');
+    xpostButton.setAttribute('title', 'submit this link to a different subreddit (remember to check \'other discussions\')');
     
     buttons.appendChild(xpostButton);
 
