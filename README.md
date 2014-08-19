@@ -12,3 +12,7 @@ What to contribute? Here are some ideas:
 * Open submission page in new tab (really simple, I'll add this anyway when I release a version with significant changes).
 * Get around the '?resubmit=true' URL parameter without taking the user to an already-submitted page. Or at least find a way to notify the user that their xpost will force a resubmission even if the link has been posted to the new subreddit (inject non-intrusive CSS/JS/div?).
 * Somehow handle self posts more elegantly.
+
+Report Issues
+-------------
+If you run into any problems with this extension, write in the Issues for this repo (in the right sidebar) or [message /u/Antrikshy](http://www.reddit.com/message/compose/?to=Antrikshy) on reddit.
